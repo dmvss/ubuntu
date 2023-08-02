@@ -1,2 +1,4 @@
 super+q quit application
 super+t open terminal
+super+f nautilus
+super+1/2/3/4 switch workspace
