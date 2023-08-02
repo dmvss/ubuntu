@@ -1,0 +1,2 @@
+super+q quit application
+super+t open terminal

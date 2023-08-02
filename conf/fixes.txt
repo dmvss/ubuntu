@@ -1,0 +1,13 @@
+#Disable mouse accel
+
+dconf-editor
+org -> gnome -> desktop -> peripherals -> mouse -> accel-profile -> flat
+
+#Fix super+q ambiguity
+
+dconf-editor
+org -> gnome -> shell -> extensions -> dash-to-dock -> hot-keys -> disable
+
+#Display date in US format
+
+settings -> region and language -> formats
