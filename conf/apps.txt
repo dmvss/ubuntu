@@ -3,3 +3,9 @@ git
 qbittorrent
 macchanger
 net-tools
+mpv
+curl
+socat
+python3
+python3-pip
+vim
