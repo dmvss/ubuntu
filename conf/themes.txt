@@ -1,1 +1,2 @@
-gnome-terminal https://github.com/daltonmenezes/aura-theme
+gnome-terminal	https://github.com/daltonmenezes/aura-theme
+qbittorrent	https://draculatheme.com/qbittorrent
