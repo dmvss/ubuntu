@@ -1,2 +1,4 @@
 dconf-editor
 git
+qbittorrent
+macchanger

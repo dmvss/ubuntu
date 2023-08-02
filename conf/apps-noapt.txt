@@ -1,0 +1,2 @@
+windscribe 1.4.51	https://windscribe.com/changelog/linux_deb
+caprine			https://github.com/sindresorhus/caprine
