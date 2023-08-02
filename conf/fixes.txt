@@ -11,3 +11,7 @@ org -> gnome -> shell -> extensions -> dash-to-dock -> hot-keys -> disable
 #Display date in US format
 
 settings -> region and language -> formats
+
+#Disable terminal bell
+
+terminal -> preferences -> profile_name -> terminal bell -> disable
